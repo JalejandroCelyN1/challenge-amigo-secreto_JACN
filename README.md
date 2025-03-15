@@ -39,7 +39,7 @@ La aplicación permite a los usuarios ingresar nombres de amigos y realizar un s
 
 ### Realizar Sorteo
 
-![Realizar Sorteo](assets/realizar-sorteo.png)
+![Realizar Sorteo](assets/RealizarSorteo.png)
 
 ## Contribuciones
 
