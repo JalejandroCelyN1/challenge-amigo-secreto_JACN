@@ -8,6 +8,7 @@ La aplicación permite a los usuarios ingresar nombres de amigos y realizar un s
 
 ## Estructura del Proyecto
 
+
 - `index.html`: Contiene la estructura HTML de la aplicación.
 - `style.css`: Contiene los estilos CSS para la aplicación.
 - `app.js`: Contiene la lógica JavaScript para agregar nombres y realizar el sorteo.
@@ -25,15 +26,20 @@ La aplicación permite a los usuarios ingresar nombres de amigos y realizar un s
 3. Una vez que hayas agregado todos los nombres, haz clic en el botón "Sortear amigo" para realizar el sorteo.
 4. El nombre del amigo secreto se mostrará en la pantalla.
 
-## Tecnologías Utilizadas
+## Funcionalidades
 
-- HTML
-- CSS
-- JavaScript
+- **Agregar Nombres**: Permite agregar nombres a la lista de participantes.
+- **Sortear Amigo Secreto**: Realiza el sorteo y muestra el nombre del amigo secreto seleccionado al azar.
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla](assets/amigo-secreto.png)
+### Agregar Nombres
+
+![Agregar Nombres](assets/Agregar_Nombres.png)
+
+### Realizar Sorteo
+
+![Realizar Sorteo](assets/realizar-sorteo.png)
 
 ## Contribuciones
 
