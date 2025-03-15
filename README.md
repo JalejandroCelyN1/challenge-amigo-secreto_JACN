@@ -35,7 +35,7 @@ La aplicación permite a los usuarios ingresar nombres de amigos y realizar un s
 
 ### Agregar Nombres
 
-![Agregar Nombres](assets/Agregar_Nombres.png)
+![Aleja,Andrés,Lucas,Mateo](/assets/AgregarNombres.png)
 
 ### Realizar Sorteo
 
